@@ -1,0 +1,28 @@
+name: richardseymour
+favicon: null
+layout_spectrum: 0.5321585992351174
+typography_spectrum: 0.1847499064169824
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8687670745421201
+  lightness: 0.8875464093871415
+  saturation: 0.31043661129660904
+  rhythmicContrast: 0.6399260452017188
+purpose: []
